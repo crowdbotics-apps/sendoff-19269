@@ -11,7 +11,6 @@ import Maps88765Navigator from '../features/Maps88765/navigator';
 import UserProfile88761Navigator from '../features/UserProfile88761/navigator';
 import Maps88717Navigator from '../features/Maps88717/navigator';
 import Add-Item88716Navigator from '../features/Add-Item88716/navigator';
-import Maps88712Navigator from '../features/Maps88712/navigator';
 import UserProfile88708Navigator from '../features/UserProfile88708/navigator';
 import BlankScreen3988685Navigator from '../features/BlankScreen3988685/navigator';
 import BlankScreen6288683Navigator from '../features/BlankScreen6288683/navigator';
@@ -35,7 +34,6 @@ Maps88765: { screen: Maps88765Navigator },
 UserProfile88761: { screen: UserProfile88761Navigator },
 Maps88717: { screen: Maps88717Navigator },
 Add-Item88716: { screen: Add-Item88716Navigator },
-Maps88712: { screen: Maps88712Navigator },
 UserProfile88708: { screen: UserProfile88708Navigator },
 BlankScreen3988685: { screen: BlankScreen3988685Navigator },
 BlankScreen6288683: { screen: BlankScreen6288683Navigator },
